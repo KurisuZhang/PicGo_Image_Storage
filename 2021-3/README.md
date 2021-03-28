@@ -1,2 +1,0 @@
-# PicGo_Image_Storage
-PicGo_Image_Storage
